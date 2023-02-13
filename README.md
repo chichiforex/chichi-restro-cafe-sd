@@ -13,7 +13,7 @@ This is an online food menu service for Restore Cafe. When you visit the restaur
 
 Check out [FRONTEND LIVE DEMO](https://frontend-restro.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-restro.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://chichi-restro-cafe-sd-back.chichiforex.repl.co) here!!
 
 ## Tech used
 
